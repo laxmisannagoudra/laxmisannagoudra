@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./linkedin-banner.png" width="100%" alt="Laxmi Sannagoudra - Java Full Stack Developer" />
+  <img src="./"C:\Users\hp\Downloads\Laxmi Sannagoudra Java Developer Banner.png" width="100%" alt="Laxmi Sannagoudra - Java Full Stack Developer" />
 </p>
 
 <h1 align="center">Hi, I'm Laxmi Sannagoudra 👋</h1>
